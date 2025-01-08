@@ -1,6 +1,3 @@
-
-
-
 import { useEffect, useState } from "react";
 import leftArrow from "../assets/left_arrow.svg";
 import rightArrow from "../assets/right_arrow.svg";

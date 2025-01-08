@@ -1,39 +1,39 @@
 [
     {
-      title: "Skyline Haven",
-      price: "$2,50,000",
-      location: "California",
-      image: "https://ibb.co/p1Pfgs4"
+      "title": "Skyline Haven",
+      "price": "$2,50,000",
+      "location": "California",
+      "image": "https://i.ibb.co/8mBrJRP/project-img-1.jpg"
     },
     {
-      title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
-      image: "https://ibb.co/1MgmRHN"
+      "title": "Vista Verde",
+      "price": "$2,50,000",
+      "location": "San Francisco",
+      "image": "https://i.ibb.co/BGpCT8J/project-img-2.jpg"
     },
     {
-      title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
-      image: "https://ibb.co/xmKvwHH"
+      "title": "Serenity Suites",
+      "price": "$2,50,000",
+      "location": "Chicago",
+      "image": "https://i.ibb.co/jV9KqRR/project-img-3.jpg"
     },
     {
-      title: "Central Square",
-      price: "$2,50,000",
-      location: "Los Angeles",
-      image: "https://ibb.co/YTMkRb9"
+      "title": "Central Square",
+      "price": "$2,50,000",
+      "location": "Los Angeles",
+      "image": "https://i.ibb.co/x80jC3v/project-img-4.jpg"
     },
     {
-      title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
-      image: "https://ibb.co/v3yHbGy"
+      "title": "Vista Verde",
+      "price": "$2,50,000",
+      "location": "San Francisco",
+      "image": "https://i.ibb.co/VgntdZn/project-img-5.jpg"
     },
     {
-      title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
-      image: "https://ibb.co/jLs4CqG"
+      "title": "Serenity Suites",
+      "price": "$2,50,000",
+      "location": "Chicago",
+      "image": "https://i.ibb.co/Zh7TQvK/project-img-6.jpg"
     }
     
   ]

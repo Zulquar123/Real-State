@@ -1,0 +1,39 @@
+[
+    {
+      title: "Skyline Haven",
+      price: "$2,50,000",
+      location: "California",
+      image: "https://ibb.co/p1Pfgs4"
+    },
+    {
+      title: "Vista Verde",
+      price: "$2,50,000",
+      location: "San Francisco",
+      image: "https://ibb.co/1MgmRHN"
+    },
+    {
+      title: "Serenity Suites",
+      price: "$2,50,000",
+      location: "Chicago",
+      image: "https://ibb.co/xmKvwHH"
+    },
+    {
+      title: "Central Square",
+      price: "$2,50,000",
+      location: "Los Angeles",
+      image: "https://ibb.co/YTMkRb9"
+    },
+    {
+      title: "Vista Verde",
+      price: "$2,50,000",
+      location: "San Francisco",
+      image: "https://ibb.co/v3yHbGy"
+    },
+    {
+      title: "Serenity Suites",
+      price: "$2,50,000",
+      location: "Chicago",
+      image: "https://ibb.co/jLs4CqG"
+    }
+    
+  ]
